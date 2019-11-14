@@ -10,7 +10,7 @@ We want you to build a page using the [Hackney front end pattern library](https:
 
 Your page should include Hackney branded content, including at least a [header](https://lbh-frontend.herokuapp.com/components/lbh-header), a title, a paragraph (you can find header and paragraph examples [on our typography page](https://lbh-frontend.herokuapp.com/examples/typography)) and a [button](https://lbh-frontend.herokuapp.com/components/lbh-button). We'd also like you to add a simple image component with caption; this component does not exist in the pattern library and will need to be created from scratch.
 
-We have created this basic repository as a starting point, please copy or fork this code to a new public repository for your work.
+We have created this basic repository as a starting point, please copy or fork this code to a new public repository and push your work there once finished. Bring a link to the repository along to your interview where we will look at the code you have written.
 
 ### Prerequisites
 
