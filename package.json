@@ -52,7 +52,6 @@
     "gulp-to-markdown": "^1.0.0",
     "gulp-uglify": "^3.0.2",
     "html5shiv": "^3.7.3",
-    "jquery": "1.12.4",
     "js-yaml": "^3.13.1",
     "map-stream": "0.0.7",
     "marked": "^0.6.2",
