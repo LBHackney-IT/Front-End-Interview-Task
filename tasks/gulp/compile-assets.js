@@ -76,8 +76,6 @@ gulp.task('scss:compile', () => {
 // Compile js task for preview ----------
 // --------------------------------------
 gulp.task('js:compile', () => {
-  // for dist/ folder we only want compiled 'all.js' file
-  // const srcFiles = isDist ? configPaths.src + 'all.js' : configPaths.src + '**/*.js'
   const srcFiles = configPaths.app + 'assets/js/main.js'
   return gulp.src([
     srcFiles,
