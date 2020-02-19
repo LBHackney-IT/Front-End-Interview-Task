@@ -2,7 +2,7 @@
 
 ## Time
 
-Completing the test should take around 2 hours.
+Completing the test should take around 1 - 2 hours. You're not being timed, but the task is designed to be simple and quick to complete - if you find yourself coming up against issues or the task is taking too long, please [get in touch](#questions).
 
 ## Task
 
