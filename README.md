@@ -20,7 +20,7 @@ We have set up a base scss file in `/app/assets/scss/app.scss` which gets built 
 
 ### Prerequisites
 
-[Node](https://nodejs.org/en/) (built using v10.15.1, you may find ), [npm](https://www.npmjs.com/get-npm)
+[Node](https://nodejs.org/en/) (built using v10.15.1, you may find [nvm](https://github.com/nvm-sh/nvm) useful), [npm](https://www.npmjs.com/get-npm)
 
 ### Installation:
 
